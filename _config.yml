@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://raw.githubusercontent.com/amirtronics/CV/main/cv.pdf
 
-url: https://sergiokopplin.github.io/indigo
+url: https://amirtronics.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-youtube: RoboticsLegion
+# youtube: RoboticsLegion
 instagram: amirtronics
 linkedin: amirtronics
 github: amirtronics
