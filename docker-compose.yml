@@ -2,7 +2,9 @@
 
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
+    build:
+      context: .
+      dockerfile: Dockerfile
     volumes:
       - .:/site
     ports:
