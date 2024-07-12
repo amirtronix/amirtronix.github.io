@@ -21,13 +21,7 @@ CMD [ "--help" ]
 # build from the image we just built with different metadata
 FROM jekyll as jekyll-serve
 
-# Set environment variables
-ENV JEKYLL_ENV=production
-ENV URL=https://yourdomain.com
-
-# On every container start, check if Gemfile exists and warn if it's missing
+# on every container start, check if Gemfile exists and warn if it's missing
 ENTRYPOINT [ "docker-entrypoint.sh" ]
 
-# Command to serve the Jekyll site
-CMD [ "bundle", "exec", "jekyll", "serve", "--force_polling", "--host", "0.0.0.0", "--port", "4000" ]
-
+CMD [ "bundle", "exec", "jekyll", "serve", "--force_polling", "-H", "0.0.0.0", "-P", "4000" ]
