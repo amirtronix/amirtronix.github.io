@@ -4,42 +4,39 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> I started my undergrad in Electrical Engineering back in 2014. I received Ds and Es in many courses and failed in the rest. I was put on academic probation and was on the verge of being expelled from the University. For some reasons, I took a job that summer and worked as an apprentice for a PLC specialist. The only task I did for two months was cutting wires and labeling them. However, day after day, I became more interested in engineering. I kept hearing keywords like AC, DC, 3-phase, 50Hz, servo motors, drives, PID, Profinet, Siemens, ABB, Schneider, etc. By the end of my apprenticeship, I had one simple question in mind: how can you turn DC into AC? That single question drove me through the rest of my undergrad, and I became so determined to find the answer that I became the top-ranked student in our group by the 6th semester.</p>
 
-<h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<div style="text-align: center;">
+    <p style="font-style: italic;">In hoc signo vices.</p>
+</div>
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+
+<p>During that summer, I kept thinking about how the University would look if we could learn Calculus and Differential Equations with servo motors, robots, or drones. Wouldn't it be interesting to learn engineering with those fascinating devices instead of wasting our time with whiteboards and unnecessary theories? In my Utopian University, there are no midterms or assignments; what exists are only projects. In every single course, like signal processing or Finite Elements, you would get a project on a drone. In DSP, you'll get to know how to design digital filters to filter out noise from velocity signal of a drone. In finite elements course, you'll get another project to design more powerful propellers to withstand vibrations and disturbances.<p>
+
+<div style="text-align: center;">
+    <p style="font-style: italic;">Rome wasn't built in a single day.</p>
+</div>
+
+
+
+<p>So, over all these years, I've carried the passion to teach the most difficult and arduous skills of robotics and programming in a fun and exciting way to young programmers and robotics enthusiasts.
+
+<div style="text-align: center;">
+    <p style="font-style: italic;">So, surely with hardship comes ease.</p>
+</div>
+
+
+
+
+<p>The journey of becoming a Robotics Engineer is one that resembles Bilbo Baggins and Arken Stone. It looks fascinating once you embark on it, however, hardship and torment come across the way gradually. You'll lose interest and keep thinking of going back. However, the greatest prize rests in the nest of the dragon. Remind yourself of how far you've come and how far you'll go for what you value. </p>
+
+
+<div style="text-align: center;">
+    <p style="font-style: italic;">Aut viam inveniam aut faciam</p>
+</div>
+
+
+
