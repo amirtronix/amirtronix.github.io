@@ -20,7 +20,7 @@ resume: true
 resume-external: false
 resume-url: assets/images/Amir_Resume.pdf
 
-url: https://amirtronics.com
+url: https://amirtronics.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
