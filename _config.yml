@@ -20,7 +20,7 @@ resume: true
 resume-external: false
 resume-url: assets/images/Amir_Resume.pdf
 
-url: https://amirtronics.github.io
+url: https://amirtronics.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -39,6 +39,7 @@ instagram: amirtronics
 linkedin: amirtronics
 github: amirtronics
 email: ebrahimnezhad@ualberta.ca
+youtube: youtube.com/@RoboticsLegion
 
 authors:
   johndoe:
