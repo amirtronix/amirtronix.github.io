@@ -48,3 +48,13 @@ bundle exec jekyll serve
 ```
 bundle exec jekyll build
 ```
+
+
+## Docker
+
+```
+docker compose build
+docker compose up -d
+cd _site/
+zip -r ../site.zip *
+```
