@@ -5,7 +5,9 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 
-<p> I started my undergrad in Electrical Engineering back in 2014. I received Ds and Es in many courses and failed in the rest. I was put on academic probation and was on the verge of being expelled from the University. For some reasons, I took a job that summer and worked as an apprentice for a PLC-man. The only task I did for two months was cutting wires and labeling them. However, day after day, I became more interested in engineering. I kept hearing keywords like AC, DC, 3-phase, 50Hz, servo motors, drives, PID, Profinet, Siemens, ABB, Schneider, etc. By the end of my apprenticeship, I had one simple question in mind: how can you turn DC into AC? That single question drove me through the rest of my undergrad, and I became so determined to find the answer that I became the top-ranked student in our group by the 6th semester.</p>
+<p>Experienced PLC programmer and deep learning developer. Dedicated to bridging the gap between computer vision, deep learning, and industrial automation. Striving to create intelligent systems that enhance operational efficiency and decision-making in industrial settings. My work focuses on integrating advanced algorithms and automation solutions to optimize processes, improve accuracy, and drive transformative results in the manufacturing landscape.</p>
+
+<!-- <p> I started my undergrad in Electrical Engineering back in 2014. I received Ds and Es in many courses and failed in the rest. I was put on academic probation and was on the verge of being expelled from the University. For some reasons, I took a job that summer and worked as an apprentice for a PLC-man. The only task I did for two months was cutting wires and labeling them. However, day after day, I became more interested in engineering. I kept hearing keywords like AC, DC, 3-phase, 50Hz, servo motors, drives, PID, Profinet, Siemens, ABB, Schneider, etc. By the end of my apprenticeship, I had one simple question in mind: how can you turn DC into AC? That single question drove me through the rest of my undergrad, and I became so determined to find the answer that I became the top-ranked student in our group by the 6th semester.</p>
 
 
 <div style="text-align: center;">
@@ -36,7 +38,7 @@ layout: page
 
 <div style="text-align: center;">
     <p style="font-style: italic;">Aut viam inveniam aut faciam</p>
-</div>
+</div> -->
 
 
 
