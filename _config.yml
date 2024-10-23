@@ -1,6 +1,6 @@
 # main text of home
 title: Amir Ebrahimnezhad
-bio: Let's learn programming with drones.
+bio: Aut Viam Inveniam Aut Faciam.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # youtube: RoboticsLegion
-instagram: amirtronics
+# instagram: amirtronics
 linkedin: amirtronix
 github: amirtronix
 email: info@amirtroix.com
